@@ -26,12 +26,12 @@ The goal is to analyze real-world job data to understand which technical skills 
 
 ## Project Structure
 
-job-skills-trends-analysis/
+```job-skills-trends-analysis/
 ├── datasets/ # CSV or Excel files with raw data
 ├── notebooks/ # Python scripts or Jupyter notebooks
 ├── sql/ # SQL queries and scripts
 ├── powerbi/ # Power BI (.pbix) file
-├── screenshots/ # Images of dashboard and results
+├── screenshots/ # Images of dashboard and results```
 
 
 
